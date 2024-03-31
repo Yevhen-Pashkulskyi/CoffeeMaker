@@ -1,4 +1,4 @@
-package product;
+package coffee;
 
 public class Espresso implements MakeCoffee{
     @Override
